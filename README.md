@@ -1,4 +1,4 @@
-# ~ Payment System ~
+# ~ Payment System WayForPay ~
 
 ![screen1](https://github.com/LexaCoronos/PaymentSystem/blob/master/img/WayForPay.png)
 
